@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristanpalma2203&label=Profile%20views&color=0e75b6&style=flat" alt="cristanpalma2203" /> </p>
 
-<img align="right" alt="Coding" width="321" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="Coding" width="321" src="https://github.com/CristanPalma2203/CristanPalma2203/blob/main/img/person.gif?raw=true">
 
 
 - 🔭 I’m currently working on [Sistema Pos](https://github.com/CristanPalma2203/pagos-frontend)
