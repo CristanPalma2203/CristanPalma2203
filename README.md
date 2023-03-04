@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 I’m studying at [UTEC](https://www.utec.edu.sv/) with a scholarship with "Becas al Talento" from [POMA Foundation](https://fundacionpoma.org/)
+- 👨‍💻 I’m studying at [UTEC](https://www.utec.edu.sv/) with a scholarship with "Becas al Talento" from [POMA](https://fundacionpoma.org/)
 
 - 📝 [My Portafolio](https://github.com/CristanPalma2203/pagos-frontend)
 
