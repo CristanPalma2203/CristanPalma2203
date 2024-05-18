@@ -8,13 +8,12 @@
 <img align="right" alt="Coding" width="321" src="https://github.com/CristanPalma2203/CristanPalma2203/blob/main/img/person.gif?raw=true">
 
 
-- 🔭 I’m currently working on [Sistema Pos](https://github.com/CristanPalma2203/pagos-frontend)
-
+- 🔭 I’m currently working on MOTMOT STUDIOS
 - 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 I’m studying at [UTEC](https://www.utec.edu.sv/) with a scholarship with "Becas al Talento" from [POMA](https://fundacionpoma.org/)
 
-- 📝 [My Portafolio](https://github.com/CristanPalma2203/pagos-frontend)
+- 📝 [My Portafolio]
 
 - 📫 How to reach me **cristianpalma1703@gmail.com**
 
